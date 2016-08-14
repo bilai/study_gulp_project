@@ -1,3 +1,12 @@
+# 自定义
+.idea
+.gitignore
+LICENSE
+
+
+
+
+
 # Logs
 logs
 *.log
